@@ -34,3 +34,5 @@ var textLine2 = "!"
 var newValueText = String (newValue)
 var combinedTextLine = textLine1 + newValueText + textLine2
 print (combinedTextLine)
+
+let sample = myAge * Int(someValue)
